@@ -1,0 +1,509 @@
+city,locality
+ahmedabad,Iscon Ambli Road
+ahmedabad,Zundal
+ahmedabad,University Area
+ahmedabad,Bilasiya
+ahmedabad,Nana Chiloda
+ahmedabad,Narolgam
+ahmedabad,Vinzol
+ahmedabad,Ujala Circle
+ahmedabad,Old Wadaj
+ahmedabad,Noble Nagar Tenament
+ahmedabad,Jodhpur Tekra
+ahmedabad,Khoraj
+ahmedabad,Jivrajpark
+ahmedabad,Jasodanagr
+ahmedabad,Enasan
+ahmedabad,Saraspur
+ahmedabad,Vinobanagar
+ahmedabad,Jaldhara-3
+ahmedabad,Saijpur Bogha
+ahmedabad,Kotarpur
+ahmedabad,Raska
+ahmedabad,Bakrol Bujrang
+ahmedabad,Ayojan Nagar
+ahmedabad,Lilapur
+ahmedabad,Rambagh
+ahmedabad,Meghani Nagar
+ahmedabad,Keshav Nagar
+ahmedabad,GIDC Vatwa
+ahmedabad,Dudeshwar
+ahmedabad,Pipan
+ahmedabad,Devdholera
+ahmedabad,Vasna Iyava
+ahmedabad,Chhabasar
+bengaluru,Kumbalgodu
+bengaluru,Bedarahalli
+bengaluru,Boodihal
+bengaluru,Uttarahalli -Manavarthekaval
+bengaluru,Bhoganhalli
+bengaluru,Thurahalli
+bengaluru,Lingadheeranahalli
+bengaluru,Rustam Bagh Layout
+bengaluru,Talaghattapura
+bengaluru,Munnekollal
+bengaluru,Jyotipuram
+bengaluru,Jnana Ganga Nagar
+bengaluru,Huvinane
+bengaluru,Kadugodi Plantation
+bengaluru,Kodipur
+bengaluru,Armane Nagar
+bengaluru,Essel Gardens
+bengaluru,Ramanashree California Gardens Layout
+bengaluru,Bikasipura
+bengaluru,Hallehalli
+bengaluru,Tirumanahalli
+bengaluru,Jagajeevanram Nagar
+bengaluru,R.K. Hegde Nagar
+bengaluru,Jeevan Bima Nagar
+bengaluru,Chandrasekarapura
+bengaluru,Reliaable Tranquil Layout
+bengaluru,Binnipete
+bengaluru,Chikkabana Halli
+bengaluru,Chikkasanne
+bengaluru,Thirumalashettyhally
+bengaluru,Katamnallur
+bengaluru,Bidare Agraha
+bengaluru,Sannatammanahalli
+bengaluru,BEML Cooperative Society Layout
+bengaluru,Boovanahalli
+bengaluru,Navarathna Agrahara
+bengaluru,Kolur
+bengaluru,Thattanahalli
+bengaluru,Suradhenupura
+bengaluru,Kaval Bairasandra
+bengaluru,Srinivaspura
+bengaluru,Thyvakanahally
+bengaluru,Aavalahalli
+bengaluru,Kuthaganahalli
+bengaluru,Kariyana Palya
+bengaluru,Volagerekallahalli
+bengaluru,Mullur
+bengaluru,Bangalore City Municipal Corporation Layout
+bengaluru,Kithaganur Village
+bengaluru,Uttarahalli Hobli
+bengaluru,Channanayakanapalya
+bengaluru,Doddagattiganabbe
+bengaluru,Devara Jeevanahalli
+bengaluru,Byagadadhenahalli
+bengaluru,Kasuvanahalli
+bengaluru,Bagalakunte
+bengaluru,Srirampuram
+bengaluru,Chandra Layout Extension
+bengaluru,Naganaikanahalli
+bengaluru,Bychapura
+bengaluru,Bennigana Halli
+bengaluru,Udayagiri
+bengaluru,Chikkabellandur
+bengaluru,Chinnapanna Halli
+bengaluru,Kithaganur Colony
+bengaluru,Yelachanayakanapura
+bengaluru,Kothnur Narayanapura
+bengaluru,Bisnahalli
+bengaluru,Kempalingapura
+bengaluru,Doddabidrakallu
+bengaluru,Nagadevana Halli
+bengaluru,Vidyamanya Nagar
+bengaluru,Ullal Uppanagar
+bengaluru,Thammenahalli Village
+bengaluru,Byadralli
+bengaluru,Kithiganur
+bengaluru,Ckikkakammana Halli
+bengaluru,Hosahalli Gollarapalya
+bengaluru,Vaderamanchana Halli
+bengaluru,Thotada Guddadhalli Village
+bengaluru,Syndicate Bank Employees Housing Society Layout
+bengaluru,Rukmini Nagar
+bengaluru,Kariobanahalli
+bengaluru,Kammassandra
+bengaluru,Bhyraveshwara Nagar
+bengaluru,Halasahalli Thippasandra
+bengaluru,Kathirguppe
+bengaluru,Madanayakahalli
+bengaluru,Totadaguddadahalli
+bengaluru,J C Nager
+bengaluru,Thirumanahalli
+bengaluru,Mugalur
+bengaluru,Thathnur Plantation
+bengaluru,Dobbsapet
+bengaluru,Doddadunnasandra
+bengaluru,Kengeri Hobli
+bengaluru,Bhimenahalli
+bengaluru,Chikballapur District
+bengaluru,Mitganahalli
+bengaluru,Varadharaja Nagar
+bengaluru,Ramnagara
+bengaluru,Sathnur
+bengaluru,Srinivaspur
+bengaluru,Bandaramanahalli
+bengaluru,Kodalagurki
+bengaluru,Sanne Amanikere
+bengaluru,Bendiganahalli Anekal Taluka
+bengaluru,Tyayakana Halli
+bengaluru,Panditana Agrahara
+bengaluru,Bettahalsoor
+bengaluru,Kotiganahalli
+bengaluru,Gudighattanahalli
+bengaluru,Addevishvanathapura
+bengaluru,Arenur
+bengaluru,Hampa Pura
+bengaluru,Sreeramanahalli
+bengaluru,Dodda Aalada Mara
+chennai,Thirumudivakkam
+chennai,Kanathur Reddikuppam
+chennai,Chinna Nolambur
+chennai,Anakaputhur
+chennai,Madhanandapuram
+chennai,Bangaruganapalli
+chennai,Palavaram
+chennai,Vengambakkam
+chennai,Perumanttunallur
+chennai,Peerakankaranai
+chennai,Thiruverkkadu
+chennai,Thirumazhisai
+chennai,Kolapakkam - Vandalur
+chennai,Mahindra World City
+chennai,Vellakkal
+chennai,Ayappakkam
+chennai,Urapakkam
+chennai,Chettipunyam
+chennai,Paranur
+chennai,Egattur
+chennai,Padappai
+chennai,Irandankattalai
+chennai,Iyyappanthangal
+chennai,Kalipathur
+chennai,S.Kolathur-Kanchipuram
+chennai,Oragadam Sriperambattur
+chennai,Amanambakkam
+chennai,Ekkatuthangal
+chennai,Mannivakkam
+chennai,Surappattu
+chennai,Bakthavatchalapuram
+chennai,Manimangalam
+chennai,Moolakazhani
+chennai,Rathinamangalam
+chennai,Kil Ayanambakkam
+chennai,Chitalapakkam
+chennai,Irumbuli
+chennai,Rajakilpakkam
+chennai,Zamin Pallavaram
+chennai,Adhanur
+chennai,Madambakkam
+chennai,Kulattur
+chennai,Senneer Kuppam
+chennai,Thirutheri R.F.
+chennai,Thandalam
+chennai,Periyamet
+chennai,Thadaperumbakkam
+chennai,Mappedu
+chennai,Singaperumal Koil
+chennai,Cholambedu
+chennai,Ponniammanmedu
+chennai,Anna Nagar West Extension
+chennai,Tharapakkam
+chennai,Ottiyambakkam
+chennai,Annanagar East
+chennai,Okkiyampet
+chennai,Agaramthen
+chennai,Perumalpattu
+chennai,Thirunindravur
+chennai,Urapakkam West
+chennai,Vettuvankani
+chennai,Nathamedu
+chennai,Mannivakkam Extension
+chennai,Natthamedu
+chennai,Ponmar
+chennai,Appur R.F.
+chennai,Kayarambedu
+chennai,Kamachi Nagar
+chennai,Somanathapuram
+chennai,Nemmeli
+chennai,Kannivakkam
+chennai,Nellitopa
+chennai,Nandivaram-Guduvancheri
+chennai,Nemilicherry
+chennai,Thaiyur
+chennai,Sirukadal
+chennai,Panneervakkam
+chennai,Sree Mahaveer Nagar
+chennai,Karayanchavadi
+chennai,Katrambakkam
+chennai,Kakkalur Industrial Estate
+chennai,Kalivandhapattu
+chennai,Kodungaiyur East
+chennai,Vetrivel Nagar
+chennai,Kalavakkam
+chennai,Maduravayal
+chennai,Deenadayalan Nagar
+chennai,Palavedu Pettai
+chennai,Kachipuram Town
+chennai,Soranjeri
+chennai,Morai
+chennai,Parivakkam
+chennai,Sirukalathur
+chennai,Vadanemmeli
+chennai,Dhanduma Nagar
+chennai,Kolappancheri
+chennai,Venkatamangalam
+chennai,New Vellanur
+chennai,Uthiramerur
+chennai,Potheri
+chennai,Kodungaiyur West
+chennai,Thiruvidandhai
+chennai,Nadukuthagai
+chennai,Mangavaram
+chennai,Kattankulathur
+chennai,Nedunkundram
+chennai,Kilakondaiyur
+chennai,Pandiyambakkam
+chennai,Karanai Puthuchery
+chennai,Salamangalam
+chennai,Nandiambakkam
+chennai,Kalpakkam
+chennai,Vandalur R.F.
+chennai,Dharkast
+chennai,Kilambakkam
+chennai,Tirupandiyur
+chennai,Mannur
+chennai,Irungattukottai
+chennai,Valarpuram
+chennai,Ammapettai
+chennai,Ankaputhur
+chennai,Madurantakam
+chennai,Iyyapa Nagar
+chennai,Perungavoor
+chennai,Kuthambakkam
+chennai,Illalur
+chennai,Gummudipoondi
+chennai,Naduveerapattu
+chennai,Orathur
+chennai,Eaichur
+chennai,Vengapakkam
+chennai,Koovathur
+delhi,KG-III
+delhi,Mittal Garden
+delhi,Gujranwala Town
+delhi,Deenpur
+delhi,Gwal Pahari
+delhi,Rajpur Khurd Village
+delhi,Rajpur Khurd Extension
+delhi,Mithapur
+delhi,Pul Prahlad Pur
+delhi,Ranhola Extesion
+delhi,Behta Hazipur
+delhi,Tajpur Pahari Village
+delhi,Tri Nagar
+delhi,New Mustafabad
+delhi,Shakarpur Khas
+delhi,Raju Parak Extension
+delhi,Sector 7G
+delhi,Pochanpur Colony
+delhi,Mansarover Garden
+delhi,Palam Extension
+delhi,Shakur Basti
+delhi,Kadarpur
+gurgaon,Nurpur Jharsa
+gurgaon,Gopalpur
+gurgaon,Raghopur
+gurgaon,Palam Farms
+gurgaon,Shahpur
+gurgaon,Sarhol
+hyderabad,Neknampur
+hyderabad,Kp -2
+hyderabad,Bhadurpalle
+hyderabad,Appa Junction
+hyderabad,Narsingi
+hyderabad,Gundlapochampalli
+hyderabad,Dullapally
+hyderabad,Mokila
+hyderabad,Gurram Guda
+hyderabad,Bongloor
+hyderabad,Chintalakunta
+hyderabad,Manneguda
+hyderabad,Kollur
+hyderabad,Rai Durg
+hyderabad,Pudur
+hyderabad,Bairagiguda
+hyderabad,Sikanderguda
+hyderabad,Hyderabad Shah Guda
+hyderabad,Majarguda
+hyderabad,Premavathi Pet
+hyderabad,Turkayamjal
+hyderabad,Gowlidody
+hyderabad,Korremula
+hyderabad,Munganoor
+hyderabad,Adibatla
+hyderabad,Sreenagar
+hyderabad,Mangalpalle
+hyderabad,Rangapur
+hyderabad,Medpalle
+hyderabad,Madeenaguda
+hyderabad,Peeramcheru
+hyderabad,Yadadri Bhuvanagiri
+hyderabad,Khanapur
+hyderabad,Bahadurpally
+hyderabad,Bowrampet
+hyderabad,Jagadgiri Gutta
+hyderabad,Toli Chowki
+hyderabad,Chowdhariguda
+hyderabad,Raviryal
+hyderabad,Kongara Kalan
+hyderabad,Kandlakoi
+hyderabad,Neopolis
+hyderabad,Shankarpally
+hyderabad,Pocharam
+hyderabad,Gopanapalli
+hyderabad,Krishna Reddy Pet
+hyderabad,Isnapur
+hyderabad,Parvathapur
+hyderabad,Nagaram Ranga Reddy District
+hyderabad,Gagillapur
+hyderabad,Trimalgherry
+hyderabad,Nadergul
+hyderabad,Thorrur Village
+hyderabad,Uppal Kalan
+hyderabad,Shameerpet Lake
+hyderabad,Mallampet
+hyderabad,Boudhanagar Colony
+hyderabad,Ramachandra Puram
+hyderabad,Muraharipally
+hyderabad,Pardhi Guda
+hyderabad,Rendlagadda
+hyderabad,Nagarkurnool
+hyderabad,Cheeriyal
+hyderabad,Jangaon
+hyderabad,Vikarabad Town
+hyderabad,Dawoodkhanguda
+hyderabad,Brahmana Pally
+hyderabad,Umdanagar
+hyderabad,Kondakal
+hyderabad,Langerguda
+hyderabad,Madanna Gudem
+hyderabad,Malikdanguda
+hyderabad,Basuragadi Village
+hyderabad,Kilashkhandarga
+hyderabad,Mansanpally
+hyderabad,Mankhal
+hyderabad,Devaryamjal
+hyderabad,Jalapalli
+hyderabad,Sathamrai Village
+kolkata,Mastarpara
+kolkata,Chhota Chanpur
+kolkata,Mondal Para
+kolkata,Bonhooghly
+kolkata,Jayanpur
+kolkata,Madurdaha
+kolkata,Hudarait
+kolkata,Pancha Sayar
+kolkata,Deshbandhu Nagar
+kolkata,Omarhati
+kolkata,Bramhapur
+kolkata,East Kolkata Township
+kolkata,Satchashipara
+kolkata,Airport Gate no. 1
+kolkata,New Barrakpur
+kolkata,Kamdahari
+kolkata,Parui Mauza
+kolkata,Patuli
+kolkata,Bidhan Pally
+kolkata,Talbanda
+kolkata,Airport Gate No 2
+kolkata,Chotto Chandpur
+kolkata,Pailan
+kolkata,Uttar Panchanna Gram
+kolkata,Jagatipota
+kolkata,Ramkrishnanagar
+kolkata,Baghbazar
+kolkata,Chakbaria
+kolkata,Hussainpur
+kolkata,Malancha Mahi Nagar
+kolkata,Basina
+kolkata,Parnasree Pally
+kolkata,North Dum Dum Bediapara
+kolkata,Kabardanga
+kolkata,Baliaghata
+kolkata,Bediapara
+kolkata,Kamardanga
+kolkata,Airport Gate No. 3
+kolkata,Makardah
+kolkata,Mohishgot
+kolkata,Shibrampur Mauza
+kolkata,Duillya
+kolkata,Thakuranir Chak
+kolkata,Satpukur
+kolkata,Kutighat
+kolkata,Mahestola
+kolkata,Entally
+kolkata,K.B.Sarani
+kolkata,Pansila
+kolkata,Natunhat
+kolkata,Badartala
+kolkata,Falta
+kolkata,Malickpur
+kolkata,Chowrangee
+kolkata,Bonkanda
+kolkata,Buroshibtalla
+kolkata,Ichhapur Defence Estate
+kolkata,Machuabazar
+kolkata,Uchhepota
+kolkata,Ashoknagar Kalyangarh
+kolkata,Mali Panchghara
+kolkata,Bow Bazaar
+kolkata,Barabazar Market
+kolkata,Bishnupur
+kolkata,Burul
+kolkata,Khariberia
+mumbai,Makane Kapase
+mumbai,Devkhope
+mumbai,Saphale
+mumbai,Nala Sopara
+mumbai,Mande
+mumbai,Madanpura
+mumbai,Doctor Compound
+mumbai,Nandore
+mumbai,Vasai West
+mumbai,Mira Road East
+mumbai,Virar West
+mumbai,Nalasopara East
+mumbai,Navghar-Manikpur
+mumbai,Kelwa
+mumbai,Naigaon West
+mumbai,Gonde Budruk
+mumbai,Bhayandar East
+mumbai,Talasari
+pune,Mohammed Wadi
+pune,Nerhe
+pune,Gokhalenagar
+pune,Bhoirwadi
+pune,Gawdewadi
+pune,Dudulgaon
+pune,Sun Vihar
+pune,Parvati Darshan
+pune,Dattavadi
+pune,Sunarwadi
+pune,Kharadi Annex
+pune,Pimpalner
+pune,Prabhag 36
+pune,Garmal
+pune,Bebadohal
+pune,Chokhi Dhani
+pune,Charholi Kurd
+pune,Shewalwadi
+pune,Uruli Devachi
+pune,Mokarwadi
+pune,Wadarvadi
+pune,Lulla Nagar
+pune,Sukhsagar Nagar
+pune,Sangamvadi
+pune,Khandve Nagar
+pune,Shelgaon
+pune,Varve Khurd
+pune,Bhivri
+pune,Gujar Nimbalkarwadi
+pune,Jambhul
+pune,Warje Malwadi
+pune,Koregaon Bhima
+pune,Salisbury Park
+pune,Ghule Vasti
+pune,Yojana Nagar
